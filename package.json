@@ -1,0 +1,23 @@
+{
+  "name": "clone-tabnews-ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willmiranda/clone-tabnews-ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "16.2.12",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
